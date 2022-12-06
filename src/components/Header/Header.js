@@ -85,7 +85,7 @@ const SubscribeWrapper = styled.div`
   display: none;
 
 
-  @media ${QUERIES.tabletAndUp} {
+  @media ${QUERIES.laptopAndUp} {
     display: revert;
     position: relative;
     justify-self: end;
